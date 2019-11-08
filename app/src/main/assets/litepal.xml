@@ -5,8 +5,8 @@
     <version value="1" ></version> 库版本，可升级
 
     <list>
-        <mapping class="com.example.coolweathertest.db.province"/>
-        <mapping class="com.example.coolweathertest.db.city"/>
-        <mapping class="com.example.coolweathertest.db.county"/>
+        <mapping class="com.example.coolweathertest.db.Province"/>
+        <mapping class="com.example.coolweathertest.db.City"/>
+        <mapping class="com.example.coolweathertest.db.County"/>
     </list>
 </litepal>
